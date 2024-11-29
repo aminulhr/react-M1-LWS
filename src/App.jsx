@@ -1,11 +1,12 @@
-function App() {
+import Test from "./test";
+
+const App = () => {
   return (
-    <>
-      <h1>Hello </h1>
-      <h1>Hello </h1>
-      <h1>Hello </h1>
-    </>
+    <div>
+      <p>hello</p>
+      <Test />
+    </div>
   );
-}
+};
 
 export default App;

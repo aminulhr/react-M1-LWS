@@ -1,7 +1,7 @@
 export default function () {
   return (
     <>
-      <h1>Text Rect</h1>
+      <h1>Text Rectj</h1>
     </>
   );
 }
